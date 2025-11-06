@@ -1,4 +1,3 @@
-//your JS code here. If required.
 const container = document.querySelector('.container');
 
 const boxCount = 800;
